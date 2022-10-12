@@ -1,9 +1,10 @@
 package main
 
 import (
-	"cyoa/cyoa"
 	"flag"
 	"fmt"
+
+	cyoa "github.com/mouad-eh/cyoa/cyoa"
 
 	// "html/template"
 	"log"
